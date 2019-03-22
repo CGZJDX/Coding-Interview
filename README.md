@@ -4,6 +4,6 @@
 
 主要参考的是《剑指offer》作者何海涛(https://github.com/zhedahht/CodingInterviewChinese2)
 
-以及Jack Cui(https://blog.csdn.net/c406495762/article/details/79247243)的代码。
+以及Jack Cui(https://blog.csdn.net/c406495762/article/details/79247243) 的代码。
 
 在此表示感谢。
